@@ -1,0 +1,26 @@
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\appsettings.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\Aplicacion Web c1.staticwebassets.runtime.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\Aplicacion Web c1.exe
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\Aplicacion Web c1.deps.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\Aplicacion Web c1.runtimeconfig.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\Aplicacion Web c1.dll
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\bin\Debug\net6.0\Aplicacion Web c1.pdb
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.csproj.AssemblyReference.cache
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.AssemblyInfoInputs.cache
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.AssemblyInfo.cs
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.RazorAssemblyInfo.cache
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.RazorAssemblyInfo.cs
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\scopedcss\bundle\Aplicacion Web c1.styles.css
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\scopedcss\projectbundle\Aplicacion Web c1.bundle.scp.css
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.dll
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\refint\Aplicacion Web c1.dll
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.pdb
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\Aplicacion Web c1.genruntimeconfig.cache
+C:\Users\gomez\Source\Repos\Aplicacion Web c1\Aplicacion Web c1\obj\Debug\net6.0\ref\Aplicacion Web c1.dll
